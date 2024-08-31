@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Load the trained model from a Pickle file
-with open('', 'rb') as model_file:
+with open('predictive_maintenance.pkl.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Define the feature names
