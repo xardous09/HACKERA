@@ -1,6 +1,6 @@
 # HACKERA
  PROBLEM STATEMENT:Predictive Maintenance for Industrial Equipment.
- 
+
  INTRODUCTION:  
 Predictive maintenance is a proactive approach to managing the maintenance of industrial equipment and machinery by predicting failures before they occur. By using advanced data analytics, machine learning, and real-time monitoring, predictive maintenance helps companies to identify potential issues and schedule maintenance activities at the optimal time. This approach contrasts with traditional methods like reactive maintenance (fixing things after they break) or preventive maintenance (regular, scheduled maintenance regardless of need). Predictive maintenance focuses on anticipating failures, allowing companies to take action before issues cause operational disruptions.
 
@@ -53,3 +53,16 @@ RPM_Mean: Mean rotational speed.
 Anomaly: Indicator of whether an anomaly has been detected (0 or 1).
 
 DATA FLOW:
+Data Collection
+       |
+Data Preprocessing
+       |
+Model Selection
+       |
+Training and Validation
+       |
+Evaluation
+       |
+Final model
+
+RESULT:
